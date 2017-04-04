@@ -1,0 +1,123 @@
+body{
+    width: 688px;
+    height: 100%;
+    margin: auto;
+    font-family: georgia;
+}
+
+.header{
+    height: 80px;
+
+}
+
+.headleft{
+    height: 50%;
+    width: 50%;
+    float: left;
+    padding-top: 15px;
+}
+
+.headright{
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+
+.header button{
+    float: right;
+    width: 70px;
+    height: 34px;
+    margin-top: 15px;
+    border: none;
+    color: #337AB7;
+    background-color:#FFFFFF;
+    margin-left: 10px;
+    border-radius: 5px;
+    outline-style: none;
+
+}
+
+.headright button:link{
+    color: #337AB7;
+    width: 70px;
+    height: 34px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+
+.headright button:hover{
+    color: #FFFFFF;
+    background-color: #337AB7;
+    width: 70px;
+    height: 34px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+
+.maincontent{
+    height: 274px;
+    background-color:#EEEEEE;
+    border-radius: 4px;
+}
+
+.maincontent button{
+    margin-top: 30px;
+    font-size: x-large;
+    margin-left: 234px;
+    color: aliceblue;
+    background-color: #5CB85C;
+    border-radius: 8px;
+    outline-style: none;
+}
+
+.maincontent b{
+    text-align: center;
+}
+
+.maincontent h1{
+    padding-top: 20px;
+
+}
+
+.wahainfo{
+    width: 582px;
+    margin: auto;
+}
+
+.library{
+    height: auto;
+    margin-top: 10px;
+
+}
+
+.first{
+    height: 650px;
+    width: 344px;
+    float: left;
+
+}
+
+.second{
+    height: 650px;
+    width: 344px;
+    float: right;
+}
+
+.blockone{
+    height: 215px;
+    width: 324px;
+    float: left;
+}
+
+.blocktwo{
+    height: 215px;
+    width: 324px;
+    float: right;
+}
+
+
+
